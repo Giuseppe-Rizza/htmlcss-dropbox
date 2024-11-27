@@ -104,6 +104,12 @@ hr {
 
 h2 {
     font-size: 32px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.blue-circle {
+    color: rgb(34, 118, 236);
 }
 
 .columns {
