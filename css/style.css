@@ -20,7 +20,7 @@ body {
 header {
     background-color: white;
     width: 100%;
-    /* position: fixed; */
+    position: fixed;
     height: 70px;
     z-index: 10;
 }
@@ -63,8 +63,8 @@ a {
 /* regole contenuto principale */
 
 main {
-  /*  margin-top: 70px; */
-  margin-bottom: 100px;
+    padding-top: 5%;
+    margin-bottom: 100px;
 }
 
 .jumbotron-container {
