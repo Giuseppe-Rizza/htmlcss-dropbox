@@ -117,7 +117,12 @@ h2 {
     width: 30%;
     height: 900px;
     background-color: red;
-    margin: 5px;
+    margin: 0 auto;
+    padding: 3%;
+}
+
+.border-columns {
+    border: 1px solid rgb(227, 220, 220);
 }
 
 .text-container {
@@ -136,6 +141,10 @@ h2 {
 
 .underlined-text {
     text-decoration: underline;
+    color: rgb(28, 134, 220);
+}
+
+.blue-text {
     color: rgb(28, 134, 220);
 }
 
